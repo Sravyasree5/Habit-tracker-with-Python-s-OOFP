@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![Pytest](https://img.shields.io/badge/Testing-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org)
@@ -86,6 +85,3 @@ To run tests,
 ```
 pytest
 ```
-=======
-# Habit-tracker-with-Python-s-OOFP
->>>>>>> 6fcc7df7621041e684086447a20aec102ef91338
