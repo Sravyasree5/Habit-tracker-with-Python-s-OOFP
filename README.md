@@ -85,3 +85,4 @@ To run tests,
 ```
 pytest
 ```
+**License MIT**
