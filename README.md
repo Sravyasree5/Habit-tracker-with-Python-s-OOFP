@@ -1,3 +1,5 @@
+# Build a habit tracking application showcasing simple CLI and minimal GUI with Object oriented & Functional programming with Python.
+
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![SQLite](https://img.shields.io/badge/Database-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://sqlite.org)
 [![Pytest](https://img.shields.io/badge/Testing-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](https://docs.pytest.org)
@@ -15,7 +17,6 @@
 
 ---
 
-# Build a habit tracking application showcasing simple CLI and minimal GUI with Object oriented & Functional programming with Python.
 Integrating new habits to daily life gradually impacts a human's overall health. Few determine to build good habits and break bad habits. Writing down the schedule of each habit is a no stranger method. But wanting to know the progress of it over a period of time is where this kind of approach lacks behind. This is when an application that can help in tracking habits comes into the play and lets you decide the flexiblity in type, periodicity, addition ,deletion and category . 
 
 
