@@ -15,6 +15,9 @@
 
 ---
 
+# Build a habit tracking application showcasing simple CLI and minimal GUI with Object oriented & Functional programming with Python.
+Integrating new habits to daily life gradually impacts a human's overall health. Few determine to build good habits and break bad habits. Writing down the schedule of each habit is a no stranger method. But wanting to know the progress of it over a period of time is where this kind of approach lacks behind. This is when an application that can help in tracking habits comes into the play and lets you decide the flexiblity in type, periodicity, addition ,deletion and category . 
+
 
 
 <img width="800" height="600" alt="VideoProject1-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/dbfc2252-1279-4b85-8ae7-f0c54e870d31" />
@@ -22,8 +25,6 @@
 
 
 
-# Build a habit tracking application showcasing simple CLI and minimal GUI with Object oriented & Functional programming with Python.
-Integrating new habits to daily life gradually impacts a human's overall health. Few determine to build good habits and break bad habits. Writing down the schedule of each habit is a no stranger method. But wanting to know the progress of it over a period of time is where this kind of approach lacks behind. This is when an application that can help in tracking habits comes into the play and lets you decide the flexiblity in type, periodicity, addition ,deletion and category . 
 
 ## Features of App
 
